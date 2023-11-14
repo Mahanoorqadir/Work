@@ -1,0 +1,17 @@
+
+.content{
+    padding: 10px;
+    background-color: aquamarine;
+    margin-top: 25px;
+    border:5px coral solid;
+    text-shadow:  2px 2px cornflowerblue;
+   
+}
+ul{
+    list-style-type: lower-alpha;
+}
+.test{
+    border: 2px solid rosybrown;
+position:sticky;
+top: 0px;
+}
